@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="disko_arte" size="1160.000000 1378.000000" />
+    <ImageTarget name="b5" size="1399.000000 1154.000000" />
+    <ImageTarget name="b4" size="800.000000 800.000000" />
+    <ImageTarget name="b2" size="640.000000 640.000000" />
+  </Tracking>
+</QCARConfig>
